@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Automaticpass
-- 👀 I’m interested in Forensic Science and Criminology 
 - 🌱 I’m currently learning Automation and Cloud
 - 😄 Pronouns: She/Her
 
